@@ -1,4 +1,4 @@
 [core]
     remote = data
 ['remote "data"']
-    url = s3://data-versioning/smart-cctv//02-12-2022
+    url = s3://dzops-data-version/cctv-images//02-12-2022
